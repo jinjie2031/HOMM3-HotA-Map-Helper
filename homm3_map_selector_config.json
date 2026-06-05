@@ -1,0 +1,21 @@
+{
+  "maps_folder": "",
+  "random_maps_folder": "",
+  "game_exe": "",
+  "game_window_keywords": "Heroes;HotA;HOMM3",
+  "start_hotkey": "F11",
+  "stop_hotkey": "F10",
+  "generate_macro": {},
+  "criteria": {
+    "player_color": "red",
+    "town": "Castle",
+    "surface_radius": 50,
+    "underground_radius": 30,
+    "max_attempts": 30,
+    "castle_stables_hard": false,
+    "direct_generate": false,
+    "keyboard_generate": false,
+    "manual_override": false,
+    "levels": {}
+  }
+}
